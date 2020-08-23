@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <style>
+    /* 全局 */
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    .website{
+      color: salmon;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    /* 头部 */
+    header{
+      width: 100%;
+      height: 200px;
+      background: lightgoldenrodyellow;
+    }
+    
+    img{
+      width: 300px;
+      height: 200px;
+      margin-left: 30px;
+      float: left;
+    }
+    nav {
+      float: left;
+      margin-left: 30px;
+      color: salmon;
+    }
+    nav > h1 {
+      margin-top: 10px;
+      font-size: 36px;
+      font-weight: 200;
+    }
+    nav > h2,h4 {
+      margin-top: 15px;
+    }
+    /* 正文 */
+    section{
+      width: 100%;
+      height: 800px;
+      background: #eae6e666;
+      position: relative;
+    }
+    /* 侧边 */
+    .sideBar{
+      width: 300px;
+      height: 100%;
+      background: #9adab599;
+      margin-left: 30px;
+    }
+    .sideBar > .personalInfo,.awards{
+      padding-left: 20px;
+    }
+    .sideBar > .selfEva{
+      padding: 0 5px;
+    }
+
+    .sideBar > div > h3{
+      color: brown;
+      font-weight: 500;
+      margin: 15px;
+    }
+    .personalInfo{
+      padding: 5px;
+    }
+    .personalInfo > ul > li{
+      margin-top: 8px;
+    }
+    .awards > ul > li{
+      margin-top: 8px;
+    }
+    /*主要内容*/
+    .content{
+      position: absolute;
+      top: 0;
+      left: 330px;
+    }
+    .content > div{
+      margin-top: 15px;
+      margin-left: 15px;
+    }
+    .content > div > h3{
+      margin-top: 20px;
+      margin-bottom: 15px;
+      color: brown;
+      font-weight: 500;
+    }
+    .education > div{
+      margin-bottom: 10px;
+    }
+    .education .para{
+      font-size: 18px;
+      font-family: monospace;
+    }
+    .education .para > i,span{
+      font-size: 12px;
+      margin-left: 10px;
+    }
+    .jobExp > div > p,ol{
+      margin-bottom: 10px;
+      font-size: 20px;
+      font-family: monospace;
+    }
+    .jobExp > div > ol{
+      margin-left: 30px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+      <img src="./avatar.jpg">
+      <nav>
+        <h1>X X X</h1>
+        <h2>个人简历</h2>
+        <h4><strong>求职意向:</strong> 前端开发</h4>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Content -->
+  <section>
+    <!-- SideBar -->
+    <div class="sideBar">
+      <div class="personalInfo">
+        <h3>个人信息</h3>
+        <ul>
+          <li>民族： 汉族</li>
+          <li>政治面貌： 党员</li>
+          <li>籍贯： XX</li>
+          <li>电话： 12345678910</li>
+          <li>邮箱： 123456@163.com</li>
+        </ul>
+      </div>      
+      <div class="selfEva">
+        <h3>个人介绍</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos cumque dolores minus eaque voluptas est mollitia? Quaerat earum, eaque tenetur voluptates nisi omnis nihil iste, neque magnam accusantium itaque minus?
+        </p>
+      </div>
+      <div class="awards">
+        <h3>在校经历</h3>
+        <ul>
+          <li>2015-04 aaaaaa</li>
+          <li>2014-04 aaaaaa二等奖学金</li>
+          <li>2014-04 bbbbbbbb</li>
+          <li>2013-01至2015-06 cccccccccc
+            <p>xxxxxxxxxxxxxxxxxxxxxxxxx</p>
+          </li>
+        </ul>
+      </div>
+      <div class="skill"></div>
+    </div>
+    <!-- MainContents -->
+    <div class="content">
+      <div class="education">
+        <h3>教育背景</h3>
+        <div>
+          <p class="para">xxx   <span>2016-09至2018-06</span></p>
+        </div>
+        <div>
+          <p class="para">xxxxxxx.本科<i>211</i><span>2012-09至2016-06</span></p>
+          <p class="para">xxxxxx xxxx专业</p>
+          <p class="para subject">xxxx、xxxx、xxxx、xxxx、xxxx</p>
+          <p class="subjects"></p>
+        </div>
+      </div>
+      <div class="jobExp">
+        <h3>项目经历</h3>
+        <div>
+          <p>独立完成xxx网站的搭建和维护</p>
+          <ol>
+            <li>购买阿里云CentOS服务器</li>
+            <li>安装LAMP，配置开发环境，DNS</li>
+            <li>编写PHP后台代码，JS/HTML/CSS前端，操作MySQL</li>
+            <li>独立上线部署，并维护系统</li>
+          </ol>
+          <p>使用技术点：<br>
+            CentOS,VI,PHP,Apache,MySQL,HTML/JS/CSS
+            <br>
+            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          </p>
+        </div>
+      </div>
+      <div class="skill">
+        <h3>专业技能</h3>
+        <div>
+          <p>html+css</p>
+          <progress value="50" max="100"></progress>
+          <p>javascript</p>
+          <progress value="50" max="100"></progress>
+          <p>php</p>
+          <progress value="50" max="100"></progress>
+          <p>linux</p>
+          <progress value="40" max="100"></progress>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</body>
+</html>
