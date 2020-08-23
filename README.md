@@ -1,2 +1,2 @@
-# wang-yubin.github.io-
+# wang-yubin.github.io
 blog
