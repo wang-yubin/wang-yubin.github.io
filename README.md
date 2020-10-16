@@ -10,7 +10,6 @@
  - 王玉斌/男/1995 
  - 本科/上海工程技术大学/计算机科学与技术 
  - 工作年限：3年
- - 微博：[@Easy](http://weibo.com/easy) （如果没有技术相关内容，也可以不放）
  - 技术博客：https://wang-yubin.github.io
  - Github：https://github.com/wang-yubin 
 
