@@ -9,12 +9,12 @@
 
  - 王玉斌/男/1995 
  - 本科/上海工程技术大学/计算机科学与技术 
- - 工作年限：3年
+ - 工作年限：4年
  - 技术博客：https://wang-yubin.github.io
  - Github：https://github.com/wang-yubin 
 
  - 期望职位：Java开发
- - 期望薪资：税前月薪10k~15K
+ - 期望薪资：税前月薪15k~20K
 
 --- 
 
