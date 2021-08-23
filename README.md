@@ -1,21 +1,21 @@
 
-# 王玉斌/Java开发
+# Java开发
 
 # 联系方式
 
-- 手机：15021739179
-- Email：yubin0412@foxmail.com 
+- 手机：MTUwMjE3MzkxNzk=
+- Email：eXViaW4wNDEyQGZveG1haWwuY29tIA==
 
 ---
 
 # 个人信息
 
- - 王玉斌/男/1995 
- - 本科/上海工程技术大学/计算机科学与技术
+ - 咕咚/男/1995.5 
+ - 本科/上海工程技术大学/  
  - 工作年限：4年
 
  - 期望职位：Java开发
- - 期望薪资：税前月薪18k~25k
+ - 期望薪资：税前月薪18k~24k
  - 期望城市：上海
 
 ---
@@ -25,28 +25,39 @@
 ## 上海经度信息技术有限公司 （ 2017年2月 ~ 2021年8月 ）
 
 ### 北投智慧供应链项目
- 
+ -开发环境:windows+ eclipse +vs code 
 - 技术栈：spring srpingMVC mysql mybatis redis rocketMQ uniapp elementui ant-design-vue
 - 项目是关于广西北投集团供应链体系的数字化，整个项目包括物流管理系统，招投标管理系统，物资交易系统，电子商城系统
 - 负责物流系统和电子商城系统中一部分主数据管理（发货单，采购需求计划等）的相关业务的开发，包含少量前端页面的实现
+- 负责与北投OA系统和京东VOP的部分对接
 - 与产品经理沟通需求，整理开发计划
 - 进行code review和bug对应
 - 协助同事进行项目的部署和发布
 - 后期功能追加和项目维护
 
 ### SMART养老院项目
-
+ -开发环境:windows+ eclipse +vs code 
 - 技术栈：spring srpingMVC mysql mybatis  elementui
 - 项目是关于连锁养老院的员工和老人的信息数字化管理系统
 - 负责项目初期前后台框架的搭建，养老院老人信息管理、床位分配管理以及对这些功能的增、删、改、查处理
 
 
 ### SKYretail仓储项目 
+ -开发环境:windows+ eclipse
 - 技术栈：spring srpingMVC mysql mybatis  elementui
 - 项目是关于物流仓储的数字化管理系统
 - 主要负责不同角色对库存管理的库存查询和库存材料种类的管理
 - 对部分sql进行性能优化和修改
 - 后期bug修复和项目维护
+
+### 公司内部OA项目 
+ -开发环境:windows+ eclipse
+- 技术栈：spring srpingMVC mysql mybatis ant-design-vue
+- 项目是分为 员工考勤，项目预算和技术分享会的管理三个模块
+- 主要负责管理公司内部员工技术分享会的数据管理和员工参与情况的汇总
+- 编写测试用例和项目文档
+- 后期bug修复和项目维护
+
 
 ### 其他经历
 
