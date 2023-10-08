@@ -1,32 +1,46 @@
 
-# Java开发
+# 车载语音云端对话系统（DM）java开发
 
 # 联系方式
 
-- 手机：MTUwMjE3MzkxNzk=
-- Email：eXViaW4wNDEyQGZveG1haWwuY29tIA==
+- 手机：15021739179
+- Email：<yubin0412@foxmail.com>
 
 ---
 
 # 个人信息
 
- - 咕咚/男/1995.5 
- - 本科/上海工程技术大学/  
- - 工作年限：4年
-
- - 期望职位：Java开发
- - 期望薪资：税前月薪18k~24k
- - 期望城市：上海
+- 王玉斌/男/1995.5
+- 本科/上海工程技术大学/  
+- 工作年限：6年
+- 工作经验：有语音对话系统云端服务实际落地经验，熟悉云端对话管理，状态跟踪，场景跳转，可见即可说与拒识等功能
+- 期望职位：车载语音云端对话系统（DM）java开发
+- 期望城市：上海/北京
 
 ---
 
 # 工作经历
 
+## 北京仙林智能科技有限公司（base上海） （ 2021年9月 ~ 2023年10月 ）
+
+### 车载智能语音云端DM
+
+- 开发环境:mac+ idea
+- 技术栈：java,spring,mysql,mybatis,redis
+- 项目是车机语音对话系统中云端对话管理服务，主要负责对接ASR、NLU为车机提供云端语音识别，语意理解能力；基于nlu结果对接各类信源为用户提供丰富的云端资源查询查询获取能力
+- 参与设计和开发云端对话系统各领域话术仲裁拒识逻辑，不断迭代车控、多媒体、闲聊等领域新功能需求，完成了多版本车机之间云端的版本控制，以兼容新老车机版本迭代之间的差异
+- 定义nlu格式文档，为车机端业务层、NLU、数据标注提供话术领域意图的标准
+- 熟悉数据库设计和SQL查询，协助产品分析用户话术落域以及对话场景
+- 良好的团队合作和沟通，与跨职能团队合作，包括语音识别（ASR）和语意理解（NLU）工程师，以实现对话系统的整合
+- 优化系统性能，包括减少语音对话延迟和提高语音回复响应速度，以提供更好的用户体验
+- 进行持续改进和测试，以不断提高对话系统的准确性和可用性
+
 ## 上海经度信息技术有限公司 （ 2017年2月 ~ 2021年8月 ）
 
 ### 北投智慧供应链项目
- -开发环境:windows+ eclipse +vs code 
-- 技术栈：spring srpingMVC mysql mybatis redis rocketMQ uniapp elementui ant-design-vue
+
+- 开发环境:windows+ eclipse +vs code 
+- 技术栈：spring,srpingMVC,mysql,mybatis,redis,rocketMQ,uniapp,elementui,ant-design-vue
 - 项目是关于广西北投集团供应链体系的数字化，整个项目包括物流管理系统，招投标管理系统，物资交易系统，电子商城系统
 - 负责物流系统和电子商城系统中一部分主数据管理（发货单，采购需求计划等）的相关业务的开发，包含少量前端页面的实现
 - 负责与北投OA系统和京东VOP的部分对接
@@ -36,33 +50,33 @@
 - 后期功能追加和项目维护
 
 ### SMART养老院项目
- -开发环境:windows+ eclipse +vs code 
-- 技术栈：spring srpingMVC mysql mybatis  elementui
+
+- 开发环境:windows+ eclipse +vs code 
+- 技术栈：spring,srpingMVC,mysql,mybatis,elementui
 - 项目是关于连锁养老院的员工和老人的信息数字化管理系统
 - 负责项目初期前后台框架的搭建，养老院老人信息管理、床位分配管理以及对这些功能的增、删、改、查处理
 
-
 ### SKYretail仓储项目 
- -开发环境:windows+ eclipse
-- 技术栈：spring srpingMVC mysql mybatis  elementui
+
+- 开发环境:windows+ eclipse
+- 技术栈：spring,srpingMVC,mysql,mybatis,elementui
 - 项目是关于物流仓储的数字化管理系统
 - 主要负责不同角色对库存管理的库存查询和库存材料种类的管理
 - 对部分sql进行性能优化和修改
 - 后期bug修复和项目维护
 
-### 公司内部OA项目 
- -开发环境:windows+ eclipse
-- 技术栈：spring srpingMVC mysql mybatis ant-design-vue
+### 公司内部OA项目
+
+- 开发环境:windows+ eclipse
+- 技术栈：spring,srpingMVC,mysql,mybatis,ant-design-vue
 - 项目是分为 员工考勤，项目预算和技术分享会的管理三个模块
 - 主要负责管理公司内部员工技术分享会的数据管理和员工参与情况的汇总
 - 编写测试用例和项目文档
 - 后期bug修复和项目维护
 
-
 ### 其他经历
 
 负责公司新进员工mysql的基础培训，根据书籍《Mysql必知必会》整理了一套入门教程【https://github.com/wang-yubin/mysql-tutorial】
-
 
 # 技能清单
 
@@ -80,13 +94,14 @@
 
 # 自我评价
 
+- 具有良好的学习能力，工作期间熟悉了车载语音中车机端到云端的处理流程，掌握了部分当下网站前端开发（vue）的使用
 - 乐观开朗，适应能力强，能接受适当加班和出差
 - 有良好的设计和编码品味，注重代码结构和整洁性
 - 具备良好的沟通能力和高度的团队合作意识，能快速融入团队
-- 具有良好的学习能力，工作期间掌握了当下前端开发中vue的使用
-- 在工作中，有着强烈的责任心，有高度执行力
+- 在工作中，有着强烈的责任心
+
 ---
 
 # 致谢
 
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+感谢您花时间阅读我的简历，期待能有机会与您共事。
