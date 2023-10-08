@@ -76,16 +76,17 @@
 
 ### 其他经历
 
-负责公司新进员工mysql的基础培训，根据书籍《Mysql必知必会》整理了一套入门教程【https://github.com/wang-yubin/mysql-tutorial】
+负责公司新进员工mysql的基础培训，根据书籍《Mysql必知必会》整理了一套入门教程【<https://github.com/wang-yubin/mysql-tutorial>】
 
 # 技能清单
 
-- 熟悉Java语法，多线程、集合等基础框架
+- 熟悉Java语法，多线程、集合，长链接等基础
 - 对spring生态技术有较长期的实际应用
+- 了解车载语音端到云链路流程，能分析解决云端实际开发维护过程中遇到的问题和难点
 - 了解和使用过eureka、spring gateway，维护和开发过微服务架构的项目；
-- 了解常用的缓存策略，合理使用redis
-- 了解和使用过消息队列 rabbitMQ
 - 对mysql的sql语句调优，效率优化方面有实际操作经验
+- 熟悉常用的缓存策略，合理使用redis
+- 了解和使用过消息队列rabbitMQ
 - 能使用vue开发常用的网站页面，熟悉常用的的vue ui框架 elementui 
 - 单元测试：junit
 - 版本管理、文档和自动化部署工具：svn/git
