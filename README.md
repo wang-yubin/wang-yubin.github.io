@@ -1,9 +1,9 @@
 
-# 车载语音云端对话系统（DM）java开发-王玉斌
+# 车载语音云端对话系统（DM）Java开发-王玉斌
 
 # 联系方式
 
-- 手机：MTUwMjE3MzkxNzk=
+- 手机：15021739179
 - Email：<yubin0412@foxmail.com>
 
 ---
@@ -12,21 +12,29 @@
 
 - 王玉斌/男/1995.5
 - 本科/上海工程技术大学/  
-- 工作年限：6年
+- 工作年限：7年
 - 工作经验：有语音对话系统云端服务实际落地经验，熟悉云端对话管理，状态跟踪，场景跳转，可见即可说与拒识等功能
-- 期望职位：车载语音云端对话系统（DM）java开发
-- 期望城市：上海/北京
+- 期望职位：车载语音云端对话系统（DM）Java开发
+- 期望城市：上海/北京/杭州/郑州
 
 ---
 
 # 工作经历
 
-## 北京仙林智能科技有限公司（base上海） （ 2021年9月 ~ 2023年10月 ）
+## 蔚来汽车（OD） （ 2023年12月 ~ 至今 ）
+
+### 智能云平台-多媒体系统
+
+- 开发环境:Mac + IDEA
+- 技术栈：Java,Spring,MySQL,Redis
+- 负责车载多媒体和语音所需要的云端信源服务，维护已经接入的QQ音乐接口
+
+## 长城汽车-仙豆智能 （ 2021年9月 ~ 2023年11月 ）
 
 ### 车载智能语音云端DM
 
-- 开发环境:mac+ idea
-- 技术栈：java,spring,mysql,mybatis,redis
+- 开发环境:Mac + IDEA
+- 技术栈：Java,Spring,MySQL,MyBatis,Redis
 - 项目落地维护和上线车型：坦克500、哈佛H6运动版、长城炮、魏派-摩卡、魏派-玛奇朵、魏派-拿铁、欧拉-芭蕾猫、欧拉-闪电猫、欧拉-朋克猫
 - 项目是车机语音对话系统中云端对话管理服务，主要负责对接ASR、NLU为车机提供云端语音识别，语意理解能力；基于NLU结果对接各类信源为用户提供丰富的云端资源查询查询获取能力
 - 参与设计和开发云端对话系统各领域话术仲裁拒识逻辑，不断迭代车控、多媒体、闲聊等领域新功能需求，完成了多版本车机之间云端的版本控制，以兼容新老车机版本迭代之间的差异
@@ -40,36 +48,36 @@
 
 ### 北投智慧供应链项目
 
-- 开发环境:windows+ eclipse +vs code 
-- 技术栈：spring,srpingMVC,mysql,mybatis,redis,rocketMQ,uniapp,elementui,ant-design-vue
+- 开发环境:Windows + Eclipse + Visual Studio Code
+- 技术栈：Spring,SrpingMVC,MySQL,Mybatis,Redis,Vue.js,uni-app,Element UI,Ant Design Vue
 - 项目是关于广西北投集团供应链体系的数字化，整个项目包括物流管理系统，招投标管理系统，物资交易系统，电子商城系统
 - 负责物流系统和电子商城系统中一部分主数据管理（发货单，采购需求计划等）的相关业务的开发，包含少量前端页面的实现
 - 负责与北投OA系统和京东VOP的部分对接
 - 与产品经理沟通需求，整理开发计划
-- 进行code review和bug对应
+- 进行Code review和Bug修复
 - 协助同事进行项目的部署和发布
 - 后期功能追加和项目维护
 
 ### SMART养老院项目
 
-- 开发环境:windows+ eclipse +vs code 
-- 技术栈：spring,srpingMVC,mysql,mybatis,elementui
+- 开发环境:Windows + Eclipse + Visual Studio Code
+- 技术栈：Spring,SrpingMVC,MySQL,Mybatis,Element UI
 - 项目是关于连锁养老院的员工和老人的信息数字化管理系统
 - 负责项目初期前后台框架的搭建，养老院老人信息管理、床位分配管理以及对这些功能的增、删、改、查处理
 
 ### SKYretail仓储项目 
 
-- 开发环境:windows+ eclipse
-- 技术栈：spring,srpingMVC,mysql,mybatis,elementui
+- 开发环境:Windows+ Eclipse
+- 技术栈：Spring,SrpingMVC,MySQL,Mybatis,Element UI
 - 项目是关于物流仓储的数字化管理系统
 - 主要负责不同角色对库存管理的库存查询和库存材料种类的管理
-- 对部分sql进行性能优化和修改
-- 后期bug修复和项目维护
+- 对部分SQL进行性能优化和修改
+- 后期Bug修复和项目维护
 
 ### 公司内部OA项目
 
-- 开发环境:windows+ eclipse
-- 技术栈：spring,srpingMVC,mysql,mybatis,ant-design-vue
+- 开发环境:Windows+ Eclipse
+- 技术栈：Spring,SrpingMVC,MySQL,Mybatis,Ant Design Vue
 - 项目是分为 员工考勤，项目预算和技术分享会的管理三个模块
 - 主要负责管理公司内部员工技术分享会的数据管理和员工参与情况的汇总
 - 编写测试用例和项目文档
@@ -77,31 +85,29 @@
 
 ### 其他经历
 
-负责公司新进员工mysql的基础培训，根据书籍《Mysql必知必会》整理了一套入门教程【<https://github.com/wang-yubin/mysql-tutorial>】
+负责公司新进员工MySQL的基础培训，根据书籍《Mysql必知必会》整理了一套入门教程【<https://github.com/wang-yubin/mysql-tutorial>】
 
 ---
 
 # 技能清单
 
-- 熟悉Java语法，多线程、集合，长链接等基础
-- 对spring生态技术有较长期的实际应用
+- 扎实的Java基础，掌握JVM基础，熟悉常⽤集合类，熟悉Java多线程并发编程
+- 熟练使用Spring/SpringMVC/Spring Boot等常用Web框架，熟练使用Mybatis/Spring Data JPA等ORM框架
 - 了解车载语音端到云链路流程，能分析解决云端实际开发维护过程中遇到的问题和难点
-- 了解和使用过eureka、spring gateway，维护和开发过微服务架构的项目；
-- 对mysql的sql语句调优，效率优化方面有实际操作经验
-- 熟悉常用的缓存策略，合理使用redis
-- 了解和使用过消息队列rabbitMQ
-- 能使用vue开发常用的网站页面，熟悉常用的的vue ui框架 elementui 
-- 单元测试：junit
-- 版本管理、文档和自动化部署工具：svn/git
+- 了解TCP/IP协议，HTTP协议，使用Netty进行网络编程开发。
+- 熟悉MySQL关系数据库，具备一定的SQL调优能力
+- 熟悉常用的缓存策略，合理使用Redis缓存数据库
+- 了解和使用过消息队列RabbitMQ、Kafka
+- 常用工具：Maven、Git/SVN、Swagger、Jmeter、JUnit等。
+- 掌握HTML、CSS、JavaScript、jQuery、Vue.js、Element-ui等前端开发技术
 
 ---
 
 # 自我评价
 
+- 主要从事过车载语音、物联网供应链等信息化行业，做过车载语音云端对话系统、物联网和门户网站后台管理系统等项目。
 - 具有良好的学习能力，工作期间熟悉了车载语音中车机端到云端的处理流程，掌握了部分当下网站前端开发（vue）的使用
-- 乐观开朗，适应能力强，能接受适当加班和出差
+- 能接受适当加班和出差
 - 有良好的设计和编码品味，注重代码结构和整洁性
-- 具备良好的沟通能力和高度的团队合作意识，能快速融入团队
-- 在工作中，有着强烈的责任心
 
 ---
