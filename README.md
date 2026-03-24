@@ -134,7 +134,7 @@ JVM 调优工作：调整 GC 参数，解决频繁 Full GC 问题，系统吞吐
 
 # 技能清单
 
-- **车载语音**：熟悉 ASR → NLU → DM → TTS 全链路，具备多轮对话、状态管理、版本控制、拒识等量产落地经验
+- **车载语音**：熟悉 ASR → DM → NLU → TTS 全链路，具备多轮对话、状态管理、版本控制、拒识等量产落地经验
 - **大模型应用**：LangChain Agent / RAG / Prompt Engineering；Qdrant 向量数据库、Neo4j 图数据库；MCP 协议实践
 - **后端开发**：Java / Spring Boot / JVM 调优（GC 参数优化）/ 高并发服务设计
 - **数据与中间件**：MySQL（慢查询调优 / 索引优化）/ Redis / Kafka / RabbitMQ / Sentinel
