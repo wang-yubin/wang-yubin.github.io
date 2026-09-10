@@ -9,7 +9,7 @@
 
 ### 岚图汽车｜智能座舱 · 语音及 AI 应用
 
-**语音算法工程师 ｜ 2024.07 ~ 至今**
+**语音算法工程师 ｜ 2024.07 ~ 至今**  
 `Java` `Spring Boot` `Python` `FastAPI` `LangGraph` `Qdrant` `Neo4j` `HanLP` `Redis` `Prometheus` `Docker`
 量产车型：岚图梦想家 · 岚图知音
 
@@ -45,7 +45,7 @@
 
 ### 蔚来汽车（OD）· 智能云平台
 
-**Java 后端开发工程师 ｜ 2023.12 ~ 2024.06**
+**Java 后端开发工程师 ｜ 2023.12 ~ 2024.06**  
 `Java` `Spring` `MySQL` `Redis` `Sentinel`
 
 - 负责车载多媒体聚合服务研发，对接喜马拉雅、网易云音乐、QQ 音乐等内容信源，为车载语音系统和自研音乐 App 提供统一云端接口
