@@ -10,7 +10,7 @@
 ### 岚图汽车｜智能座舱 · 语音及 AI 应用
 
 **语音算法工程师 ｜ 2024.07 ~ 至今**  
-`Java` `Spring Boot` `Python` `FastAPI` `LangGraph` `Qdrant` `Neo4j` `HanLP` `Redis` `Prometheus` `Docker`
+`Java` `Spring Boot` `Python` `FastAPI` `LangGraph` `Qdrant` `Neo4j` `HanLP` `Redis` `Prometheus` `Docker`  
 量产车型：岚图梦想家 · 岚图知音
 
 **⭐ 车载用户手册知识库建设**
