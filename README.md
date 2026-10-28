@@ -1,6 +1,6 @@
-# 王玉斌 · 大模型应用研发 / Java 后端开发
+# 546L546J5paM · 大模型应用研发 / Java 后端开发
 
-**15021739179 ｜ yubin0412@foxmail.com**  
+**MTUwMjE3MzkxNzk= ｜ yubin0412@foxmail.com**  
 本科 / 上海工程技术大学 / 计算机科学与技术 ｜ 工作：9年 ｜ 期望城市：上海 / 重庆
 
 ---
